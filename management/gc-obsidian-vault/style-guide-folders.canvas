@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"d388cb55b4f4f9ab","x":-269,"y":-308,"width":250,"height":60,"type":"text","text":"GhostCat"},
+		{"id":"99aafefea6fd77c8","x":65,"y":-308,"width":250,"height":60,"type":"text","text":"assets"},
+		{"id":"ac26cffd6ab2ecf8","x":187,"y":-37,"width":250,"height":60,"type":"text","text":"design"},
+		{"id":"20342f8f2ebe357c","x":190,"y":39,"width":250,"height":60,"type":"text","text":"environment"},
+		{"id":"95a920eab3f4b0fb","x":190,"y":138,"width":250,"height":60,"type":"text","text":"prop"},
+		{"id":"733b5ee2067ddd6f","x":190,"y":227,"width":250,"height":60,"type":"text","text":"text"},
+		{"id":"5a72251679087712","x":187,"y":300,"width":250,"height":60,"type":"text","text":"thumbnail"},
+		{"id":"13429b186a16d49e","x":187,"y":390,"width":250,"height":60,"type":"text","text":"vfx"},
+		{"id":"892073ee4ababf39","x":187,"y":-217,"width":250,"height":60,"type":"text","text":"audio"},
+		{"id":"7296a2a156cabfcb","x":187,"y":-127,"width":250,"height":60,"type":"text","text":"character"},
+		{"id":"31cf068e341e7838","x":65,"y":504,"width":250,"height":60,"type":"text","text":"management"},
+		{"id":"8c9d9df751523bea","x":190,"y":596,"width":250,"height":60,"type":"text","text":"gc-obsidian-vault"},
+		{"id":"e8188d74539e4acb","x":190,"y":692,"width":250,"height":60,"type":"text","text":"reviewed"},
+		{"id":"48bbc7b9ff972a94","x":65,"y":1456,"width":250,"height":60,"type":"text","text":"project-files"},
+		{"id":"d67ee59f793538fa","x":65,"y":1555,"width":250,"height":60,"type":"text","text":"reference"},
+		{"id":"5e1782949dba6c21","x":65,"y":1644,"width":250,"height":60,"type":"text","text":"gitignore"},
+		{"id":"f932f5c0613ffb4a","x":65,"y":1717,"width":250,"height":60,"type":"text","text":"readme"},
+		{"id":"b556ee222d8464a6","x":190,"y":783,"width":250,"height":60,"type":"text","text":"to-review"},
+		{"id":"61ba25d304af7582","x":190,"y":883,"width":250,"height":60,"type":"text","text":"schedule-and-style-guide"},
+		{"id":"f1e30f4428d89e3f","x":62,"y":996,"width":250,"height":60,"type":"text","text":"project-files"},
+		{"id":"c90bdb6b58f1545e","x":62,"y":1202,"width":250,"height":60,"type":"text","text":"reference"}
+	],
+	"edges":[]
+}

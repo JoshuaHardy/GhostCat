@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "6ad1142709a3ef0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3dfa9ef05f63cdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e7650f1cf42ab54",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "style-guide-folders.canvas",
+                "viewState": {
+                  "x": 277.9458222774041,
+                  "y": -500.8131343495977,
+                  "zoom": -0.6666666666666667,
+                  "snapToGrid": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac7c3d1429f821ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a00fc1bf8e8ae4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c703b3ae8e63083",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef81563c8a93399b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88ae431b83d5317e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6a080e36d4dc8bb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d4045ae361d131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14171fd35786d012",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "style-guide-folders.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "771e790659be1b81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "style-guide-folders.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a6a60d10a58fd65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d071859b74ee94a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "style-guide-folders.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3e7650f1cf42ab54",
+  "lastOpenFiles": [
+    "style-guide-folders.md",
+    "style-guide-folders.canvas",
+    "folder-directory.canvas",
+    "Untitled.md"
+  ]
+}
